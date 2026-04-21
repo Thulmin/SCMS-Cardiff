@@ -412,23 +412,11 @@ The current codebase appears to be a functional academic prototype, but several 
 
 ## Author / Student Information
 
-Replace this section with your own details before publishing or submitting:
 
-- **Student Name:** `[Your Name]`
-- **Student ID:** `[Your Student ID]`
-- **Programme:** `[Your Degree Programme]`
+- **Student Name:** `Thulmin Jayawardena`
+- **Programme:** `MSc in Information Technology`
 - **Institution:** `Cardiff Metropolitan University`
-- **Email:** `[Your University Email]`
 
-## Academic Context
-
-Replace this section with the relevant course information:
-
-- **Module / Course:** `[Module Name and Code]`
-- **Assessment Type:** `[Coursework / Project / Assignment]`
-- **Academic Year:** `[Year / Semester]`
-- **Lecturer / Supervisor:** `[Lecturer Name]`
-- **Submission Context:** `[Brief description of how this repository was used for the module]`
 
 ## License
 
